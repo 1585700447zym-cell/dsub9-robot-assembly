@@ -1,0 +1,17 @@
+name: dsub9-robot-assembly
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - pyyaml
+  - pytest
+  - pytest-cov
+  - gymnasium
+  - mujoco
